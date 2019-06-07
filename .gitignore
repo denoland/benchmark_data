@@ -1,0 +1,4 @@
+# symlinks that are copied over from the website directory.
+# gh-pages doesn't run correctly with symlinks.
+rustdoc/
+typedoc/
